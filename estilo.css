@@ -5,11 +5,11 @@ font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed",
 nav ul{list-style: none;
 padding: 0;}
 nav a {text-decoration: none;
-color: rgba(22,20,21,1.00);display: block;padding: 5px;}
+color: #B8D6C8;display: block;padding: 5px;}
 
-nav li {line-height: 2rem;position: relative;}
-
-nav > ul {background:rgba(52,98,145,1.00);display: table;width: 25%;
+nav li { line-height: 2rem;position: relative;}
+li li a{color:rgba(23,23,23,1.00);}
+nav > ul {background:#1F2E3D; display: table;width: 25%;
  }
 nav >ul > li{float:none;}
 nav a:hover{background:rgba(2,208,185,1.00);transition: .2s;}
